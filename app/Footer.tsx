@@ -9,7 +9,7 @@ const Footer = () => (
                     <a key={item} href="#" className="hover:underline">{item}</a>
                 ))}
             </nav>
-            <div className="text-black/60">
+            <div className="text-black/60 text-sm">
                 © 2025 · All rights reserved
             </div>
         </div>
